@@ -308,6 +308,12 @@ Collection for routes Backend Test
   
   `POST`
 
+
+* **DATA PARAMS**
+  REQUIRED
+  
+  `inputUser = [string]`
+
   
 * **Success Response:**
   
